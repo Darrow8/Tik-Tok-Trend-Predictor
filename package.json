@@ -4,6 +4,7 @@
   "description": "For Quest 2020",
   "main": "analysis.js",
   "dependencies": {
+    "tiktok-api": "^0.4.1",
     "typescript": "^4.1.3"
   },
   "devDependencies": {
